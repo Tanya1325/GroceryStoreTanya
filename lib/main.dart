@@ -94,7 +94,7 @@ class Grocery extends StatelessWidget {
         title: Text('Grocery Shop'),
         actions: <Widget>[
           Icon(Icons.shopping_cart),
-          Padding(padding:EdgeInsets.all(15)),
+          Padding(padding:EdgeInsets.all(16)),
           Icon(Icons.account_circle),
           Padding(padding: EdgeInsets.all(5)),
         
