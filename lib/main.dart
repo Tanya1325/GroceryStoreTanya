@@ -36,7 +36,7 @@ class Grocery extends StatelessWidget {
             ],),
           ),
              Container(
-               padding: EdgeInsets.all(15),
+               padding: EdgeInsets.all(16),
           child: Row(
             children: <Widget>[
             Icon(Icons.dashboard,size: 30,color: Colors.grey),
